@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3861
+
+Grab the latest version from BitBucket: https://bitbucket.org/ludovicchabant/vim-lawrencium
+
+Lawrencium is a Mercurial wrapper for Vim, inspired by Tim Pope's Fugitive. It adds many commands like :Hg (run a Mercurial command with auto-completion), :Hgedit (open a file relative to the repository's root), :Hgdiff and :Hgcommit (you can easily guess what they do), and a very cool :Hgstatus which shows an interactive version of `hg status`'s output.
+
+See the project's README file for more information: https://bitbucket.org/ludovicchabant/vim-lawrencium/overview
+
